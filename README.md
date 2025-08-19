@@ -1,4 +1,4 @@
-# 📖 Repositorio con ejercicios prácticos de SQL, organizados en lecciones progresivas que cubren desde consultas básicas hasta operaciones más avanzadas:
+# 📖 Repositorio con ejercicios prácticos de SQL, organizados en lecciones progresivas que cubren desde consultas básicas hasta operaciones más avanzadas
 
 SELECT y filtros → selección de datos, condiciones, rangos, patrones (LIKE).
 
